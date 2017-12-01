@@ -10,12 +10,12 @@ https://github.com/walid1992/weex-frame 项目修改版本
 
 > weex 基于vue2.0开发框架，包括三端集成、组件库提供、weex api封装~
 
-
-#    weexpack 参考https://github.com/weexteam/weex-pack/tree/dev
-#    natjs 参考http://natjs.com/
-#    weex-ui参考https://github.com/alibaba/weex-ui
-#    https://weex.apache.org : Apache 官网地址，部署于 apache 仓库，国内访问速度较慢。
-#    https://weex-project.io : Weex 官网中国镜像，部署于阿里云，国内访问速度较快。
+# 参考资料
+* weexpack 参考https://github.com/weexteam/weex-pack/tree/dev
+* natjs 参考http://natjs.com/
+* weex-ui参考https://github.com/alibaba/weex-ui
+* https://weex.apache.org : Apache 官网地址，部署于 apache 仓库，国内访问速度较慢。
+* https://weex-project.io : Weex 官网中国镜像，部署于阿里云，国内访问速度较快。
 
 大家可根据实际需求选择访问。
 
