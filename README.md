@@ -1,6 +1,6 @@
 
 # weex-weex-ui-weex-frame
-weex三端统一开放框架，集成了weex-ui natjs
+weex三端统一开发框架，集成了weex-ui natjs
 
 https://github.com/walid1992/weex-frame 项目修改版本
 
